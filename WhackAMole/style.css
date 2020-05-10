@@ -1,0 +1,22 @@
+body{
+    color: white;
+    font-family: Helvetica;
+    background-color:royalblue;
+}
+.square{
+    width: 200px;
+    height: 200px;
+    border: 1px solid white;
+}
+.grid{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-content: center;
+    width: 618px;
+    height: 618px;
+}
+.mole{
+    background-image: url('mole.jpg');
+    background-size: cover;
+}
