@@ -1,0 +1,18 @@
+body{
+    background: #e570e7;
+    color: white;
+    font-family: Helvetica, sans-serif;
+}
+#reset{
+    position: relative;
+    color: white;
+    background-color: royalblue;
+    border-radius: 40;
+    right: 60;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    height: 300px;
+    width: 300px;
+}
