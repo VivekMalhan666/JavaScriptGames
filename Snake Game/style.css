@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(81, 81, 82);
+    display: flex;
+    justify-content: center;
+}
+#canvas{
+    background-color: #e4e2e2; 
+    /* border-radius: 4px; */
+}
